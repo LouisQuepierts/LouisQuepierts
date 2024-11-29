@@ -1,5 +1,9 @@
-## Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisQuepierts" align="right" alt="Kwenbierz Andier's Github Stats" />
 
+- 👋 Hi there, this is Kwenbierz ANDIER
+- ⚙️ I’m currently processing on Minecraft Moding and Orchestral Arrangement
+- 🌱 I’m currently learning OpenGL and UE5
+- 👯 I’m looking to collaborate on Game Development
 <!--
 **LouisQuepierts/LouisQuepierts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
