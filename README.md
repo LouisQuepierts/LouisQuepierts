@@ -4,7 +4,7 @@
 - 👋 This is Kwenbierz ANDIER
 - 🔭 I’m currently working on HeartFire and IDEA-GLSL plugin 
 - ⚙️ I’m currently processing on Minecraft Moding and Orchestral Arrangement
-- 🌱 I’m currently learning OpenGL and UE5
+- 🌱 I’m currently learning OpenGL and Godot
 - 👯 I’m looking to collaborate on Game Development
 <!--
 **LouisQuepierts/LouisQuepierts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
