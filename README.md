@@ -1,7 +1,7 @@
 ## Hi there
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisQuepierts" align="right" alt="Kwenbierz Andier's Github Stats" />
 
-- 👋 This is Kwenbierz ANDIER
+- 👋 This is Louis Quepierts
 - 🔭 I’m currently working on HeartFire and IDEA-GLSL plugin 
 - ⚙️ I’m currently processing on Minecraft Moding and Orchestral Arrangement
 - 🌱 I’m currently learning OpenGL and Godot
