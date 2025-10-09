@@ -2,9 +2,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisQuepierts" align="right" alt="Kwenbierz Andier's Github Stats" />
 
 - 👋 This is Louis Quepierts
-- 🔭 I’m currently working on HeartFire and IDEA-GLSL plugin 
+- 🔭 I’m currently working on Animata4j
 - ⚙️ I’m currently processing on Minecraft Moding and Orchestral Arrangement
-- 🌱 I’m currently learning OpenGL and Godot
+- 🌱 I’m currently learning OpenGL
 - 👯 I’m looking to collaborate on Game Development
 <!--
 **LouisQuepierts/LouisQuepierts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
