@@ -1,5 +1,5 @@
 ## Hi there
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisQuepierts" align="right" alt="Kwenbierz Andier's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisQuepierts" align="right" alt="Quepierts Andier's Github Stats" />
 
 - 👋 This is Louis Quepierts
 - 🔭 I’m currently working on Animata4j
