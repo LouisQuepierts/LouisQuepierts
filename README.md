@@ -1,10 +1,10 @@
 ## Hi there
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisQuepierts" align="right" alt="Quepierts Andier's Github Stats" />
 
-- 👋 This is Louis Quepierts
+- 👋 Here is Quepierts
 - 🔭 I’m currently working on Animata4j
 - ⚙️ I’m currently processing on Minecraft Moding and Orchestral Arrangement
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently working on OpenGL things and learning Vulkan
 - 👯 I’m looking to collaborate on Game Development
 <!--
 **LouisQuepierts/LouisQuepierts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
